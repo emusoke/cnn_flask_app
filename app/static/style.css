@@ -1,0 +1,13 @@
+div{
+    padding: 30px;
+}
+
+#land_img {
+    border-radius: 50%;
+}
+
+#centered{
+    display: flex;
+    justify-content: center;
+}
+
